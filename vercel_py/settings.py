@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'vercel_py.wsgi.application'
+WSGI_APPLICATION = 'vercel_py.wsgi.app'
 
 
 # Database
